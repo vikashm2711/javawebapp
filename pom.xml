@@ -40,5 +40,6 @@
                 </configuration>
             </plugin>
         </plugins>
+		<finalName>HelloWorld</finalName>
     </build>
 </project>
